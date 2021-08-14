@@ -25,7 +25,7 @@ It is a lot easier to simply remove or edit the rules that one does not wish to 
 ## Example docker-compose
 
 ```
-version: "1"
+version: "2.0"
 
 services:
   openvpn:
