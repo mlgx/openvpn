@@ -1,5 +1,6 @@
-# openvpn
-Dockerized OpenVPN server
+# OpenVPN
+Dockerized OpenVPN server.  
+Docker Hub: https://hub.docker.com/r/mlgx/openvpn
 
 "Fork" of [dockovpn/docker-openvpn](https://github.com/dockovpn/docker-openvpn).
 
